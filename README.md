@@ -25,4 +25,4 @@ The Horizontal Scrolling Photo Gallery is designed to showcase a collection of i
 
 - **HTML**: For structuring the web application.
 - **CSS**: For styling the gallery and ensuring responsiveness.
-- **JavaScript**: For handling user interactions and scrolling logic.
+- **JavaScript**: For handling user interactions and scrolling logic
